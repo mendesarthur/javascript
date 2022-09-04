@@ -1,2 +1,2 @@
 # javascript
-*Usar a extensão node.js Exec, para executar os arquivos de javascript puro  no terminal*
+*Use the node.js Exec extension to run the pure JavaScript files in the terminal*
