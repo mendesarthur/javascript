@@ -7,7 +7,7 @@ function speedUp (vel, acl){
 let vel = 70
 let acl = 5
 
-console.log(vel)
+console.log("Nova velocidade:" + newVel)
 
 vel = speedUp(vel, acl)
 
