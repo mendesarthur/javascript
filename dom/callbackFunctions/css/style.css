@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: black;
+
+}
+#main-content{
+    color: aliceblue;
+    font-size: 20px;
+}
+#lista{
+    color: aliceblue;
+}
+#container{
+    color: black;
+}
